@@ -12,8 +12,8 @@
 ### Connect with me:
 
 [<img align="left" alt="https://theyurei.github.io/home/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.8.0/icons/x.svg" />][twitter]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 
 <br />
 
@@ -39,5 +39,5 @@
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJ13&langs_count=100&theme=dark" />
 
 [website]: https://theyurei.github.io/home/
-[twitter]: https://twitter.com/1337GH0S7
+[twitter]: https://x.com/lowkeyraffz
 [Discord]: https://discordapp.com/users/1013924634162380840/
