@@ -1,13 +1,46 @@
-﻿### Hey  👋
+# Hi, I'm Rafael 👋
+
+💻 Software Developer from Portugal  
+🎓 Student at Instituto Politécnico de Castelo Branco  
+🚀 Software Developer Intern @ RCoders  
+
+I’m interested in **backend and full-stack development**, mainly working with **Java, Spring Boot, React, Node.js and PostgreSQL**.
+
+I enjoy building web applications, designing **REST APIs**, and working with relational databases to create scalable and maintainable systems.
+
+One of my first projects was a **Discord support ticket bot**, used by a community of around **500 users**, which gave me my first experience maintaining a real application in production.
 
 ---
 
-## About me
+## 🛠 Tech Stack
 
--  I'm 19y
--  I'm Portuguese
+**Backend**
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+
+**Frontend**
+- React
+- JavaScript
+- HTML / CSS
+
+**Tools**
+- Git
+- Node.js
+- npm
 
 ---
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RafaelJ13&theme=dark&show_icons=true&hide_border=true" />
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJ13&langs_count=100&theme=dark" />
+## 📚 Currently Learning
+
+- Improving backend development with **Spring Boot**
+- Building **full-stack applications**
+- Learning more about **software architecture and scalable systems**
+
+---
+
+## 📫 Connect with me
+
+LinkedIn  
+https://linkedin.com/in/rafael-januário-a145bb347
